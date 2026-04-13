@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "hiburankita",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "516bf04e-9d87-4750-a060-ce71315cee39",
+			"database_name": "hiburankita"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
